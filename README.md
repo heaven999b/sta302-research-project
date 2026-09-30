@@ -77,7 +77,7 @@ About 29 candidates were tested by three parallel search groups; 3 qualified. Se
 ## Getting started
 
 ```bash
-git clone --recurse-submodules https://github.com/<user>/sta302-research-project.git
+git clone --recurse-submodules https://github.com/heaven999b/sta302-research-project.git
 ```
 
 To reproduce a project, open its folder in RStudio (R ≥ 4.3, with the packages `car`, `sandwich` and `lmtest`). Knit `Part1_Code.Rmd` first, then `Part2_Analysis.Rmd`. Each project README gives the details.

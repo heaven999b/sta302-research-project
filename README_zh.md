@@ -82,7 +82,7 @@
 ## 复现
 
 ```bash
-git clone --recurse-submodules https://github.com/<用户名>/sta302-research-project.git
+git clone --recurse-submodules https://github.com/heaven999b/sta302-research-project.git
 ```
 
 用 RStudio 打开子仓库文件夹（R ≥ 4.3，需安装 `car`、`sandwich`、`lmtest`），先 knit `Part1_Code.Rmd`，再 knit `Part2_Analysis.Rmd`。
