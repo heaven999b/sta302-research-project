@@ -1,0 +1,9 @@
+[submodule "projects/soc-new-home-prices"]
+	path = projects/soc-new-home-prices
+	url = https://github.com/heaven999b/sta302-soc-new-home-prices.git
+[submodule "projects/ntd-transit-ridership"]
+	path = projects/ntd-transit-ridership
+	url = https://github.com/heaven999b/sta302-ntd-transit-ridership.git
+[submodule "projects/ipeds-faculty-salary"]
+	path = projects/ipeds-faculty-salary
+	url = https://github.com/heaven999b/sta302-ipeds-faculty-salary.git

@@ -3,6 +3,3 @@
 .RData
 .Rproj.user/
 __pycache__/
-# Sub-repos are added as git submodules by scripts/publish_to_github.sh.
-# Until then they are ignored here (each one is its own git repository).
-projects/
