@@ -21,5 +21,5 @@
 
 ## GitHub
 - [ ] 用户用 yihaiwen9@gmail.com 注册新的 GitHub 账号
-- [ ] `gh auth login` 登录新账号，然后运行 `scripts/publish_to_github.sh <新用户名>`
+- [ ] `gh auth login` 登录新账号，然后运行 `scripts/publish_to_github.sh <新用户名> --public`（已决定公开）
 - [ ] 小组其他成员注册 GitHub 后，加为协作者
