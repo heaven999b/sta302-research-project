@@ -20,6 +20,5 @@
 - [ ] 方案三：探针阶段的备选分析碰过部分测试集院校（只看过汇总系数）
 
 ## GitHub
-- [ ] 用户用 yihaiwen9@gmail.com 注册新的 GitHub 账号
-- [ ] `gh auth login` 登录新账号，然后运行 `scripts/publish_to_github.sh <新用户名> --public`（已决定公开）
+- [x] 发布到 GitHub 账号 heaven999b，4 个仓库全部公开（2026-09-30，用户决定用已有账号，不再新建）
 - [ ] 小组其他成员注册 GitHub 后，加为协作者
