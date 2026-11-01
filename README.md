@@ -1,5 +1,12 @@
 # STA302 Research Project
 
+## Latest revision — 2 November 2026
+
+The three project repositories now contain the revised English proposals (Markdown, HTML, PDF and Word), English analysis supplements and rerun evidence. Start with the [English portfolio and current submission checklist](reports/english-2026-11-02/README.md).
+
+The September selection criteria and status below are historical. In particular, the test sets are not completely untouched: early descriptive inspection and, for IPEDS, earlier probe overlap are disclosed in the updated individual supplements. Small residual ICC or fixed effects do not establish independent observations. The remaining team and submission prerequisites are listed in the current checklist.
+
+
 Final project for **STA302H1 (Methods of Data Analysis I), University of Toronto, Fall 2026**.
 
 This umbrella repository tracks how the topic was chosen, which candidates were tested and rejected, and three fully built candidate projects. Each candidate is its own repository and appears here as a git submodule under `projects/`. The group will choose one of the three for the final submission.
